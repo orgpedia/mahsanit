@@ -15,9 +15,41 @@
 राष्ट्रीय जलविज्ञान प्रकल्पांतर्गत जलशास्त्रीय माहिती प्रणाली, पूर नियंत्रणासाठी निर्णय सहाय्य प्रणाली, जलसंपत्तीचे संवर्धन या प्रकारची कामे हाती घ्यावयाची असून, जादा खोलीच्या विंधण छिद्र किंवा कूपनलिकांची दुरूस्ती किंवा पुनरूज्जीवन करणे, व्हिडीओ कॉन्फरन्स साठी साहित्य घेणे, यंत्रणेतील अधिकाऱ्यांना जलविज्ञान प्रकल्पासाठी उपयुक्त प्रशिक्षण देणे, भूजलाविषयी जनजागृती मोहिम राबविणे या बाबी शिघ्र गतीने राबविण्यासाठी संचालनालयाने संदर्भाधीन क्र. ३ येथील पत्रान्वये सादर केलेल्या कृती आराखड्यास सुधारित प्रशासकीय मान्यता देण्याची बाब शासनाच्या विचाराधीन होती.
 शासन निर्णय :
 संचालक, भूजल सर्वेक्षण आणि विकास यंत्रणा, पुणे यांनी शासनास सादर केलेल्या प्रस्तावानुसार राष्ट्रीय जलविज्ञान प्रकल्पाच्या रक्कम रु. २७.०० कोटी (रुपये सत्तावीस कोटी) किंमतीच्या खालील बाबींना त्याखाली नमूद केलेल्या अटी व शर्तींच्या अधीन राहून सुधारित प्रशासकीय मान्यता प्रदान करण्यात येत आहे.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  | अ.क्र. |  |  | PIP Code |  |  | विवरण |  |  | सुधारित किंमत (रुपये |  |
+|  |
+|  |  | लाखात) |
+| 1 | A1.2.01 | Procurement of DWLR Telemetry for Existing GW Monitoring Wells | 470.80 |
+| 2 | A1.7.07 | Complete set of Equipments and Softwares for Aquifer Performance Tests | 25.00 |
+| 3 | A3.1.01 | A) Construction of Annex Building for State Groundwater Informatics and Modeling Centre B) Furnishing of Annex Building for State Groundwater Informatics and Modeling Centre C) Strengthening and Furnishing of Existing Building of SPMU | 800.00 |
+| 4 | A3.3.01 |
+| 5 | A3.4.01 | IT Equipments for Data Centres | 150.00 |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः जलवि-२०१५/प्र.क्र.१२०/पापु-१५
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  | अ.क्र. |  |  | PIP Code |  |  | विवरण |  |  | सुधारित किंमत (रुपये |  |
+|  |
+|  |  | लाखात) |
+| 6 | B2.3.01 | Digitization of Data, Records, Reports etc. | 60.00 |
+| 7 | B2.4.01 | Web Hosting, Consultancy Services for Developing Website and O and M |
+| 8 | B2.5.01 | Development of State, Regional and District Atlas |
+| 9 | B2.6.01 | Printing of Information Brouchers |
+| 10 | C1.1.02 | A) DSS Development along with IT Hardware, software, 0 & M, etc. for prediction of probable scarcity affected villages, items related with Groundwater Act like tracking of Rig Machines, Mapping of all Irrigation Wells, Mapping of all Drinking Water Sources with quality tags, Decisions for Digging/ Drilling of Wells/ Bore wells and extraction of groundwater for various purposes, Advisory, alerts for Groundwater Recharge & Management etc. B) Development of State Groundwater Resources Information System i.e. State WRIS. | 400.00 |
+| 11 | C2.2.01 | PDS on identification of causes for water level declination nearby coal mine area of Nagpur Region | 100.00 |
+| 12 | C2.2.01 | Estimation of Aquifer Hydraulic Parameters in Different Geological Formation |
+| 13 | C2.2.01 | Fluoride (F) Distribution in Groundwater and F Contamination in Food-Chain |
+| 14 | C2.2.01 | PDS on Conjugative use of surface and ground water for artificial recharge in over exploited area of chauras in Bhandara District |
+| 15 | D1.4.01 | Video conferencing equipments | 90.00 |
+| 16 | D1.7.01 | Procurement of Vehicles, hiring of vehicles | 200.00 |
+| 17 | D2.1.01 | National/ International Trainir | 100.00 |
+| 18 | D2.3.01 | Study Tour- International/ National |
+| 19 | D3.1.01 | Setting up of SPMU Office | 50.00 |
+| 20 | D3.2.01 | Operational Cost of SPMU | 254.20 |
+| TOTAL | 2700.00 |
+|  |  |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी ३
 # Page 4
 शासन निर्णय क्रमांकः जलवि-२०१५/प्र.क्र.१२०/पापु-१५
